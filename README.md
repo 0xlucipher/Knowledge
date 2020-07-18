@@ -1,41 +1,6 @@
 # [My Knowledge Wiki 🌿](https://wiki.nikitavoloboev.xyz)
 
-This is my personal wiki where I share [everything I know](sharing/everything-I-know.md) about this world in form of an [online GitBook](https://wiki.nikitavoloboev.xyz) hosted on [GitHub](https://github.com/nikitavoloboev/knowledge).
-
-If this is your first time visiting this wiki, take a look [here](meta/meta.md) as it describes this wiki, its structure and goals.
-
-Below are [notes](https://github.com/nikitavoloboev/knowledge/blob/master/SUMMARY.md) & their relations visualized.
-
-![](https://i.imgur.com/SbhfKGm.png)
-
-![](https://i.imgur.com/ODDdwde.png)
-
-This wiki is large. 28000+ lines of markdown large (calculated with [loc](https://github.com/cgag/loc/))
-
-```
-~/Dropbox/Write/knowledge
-❯ loc
---------------------------------------------------------------------------------
- Language             Files        Lines        Blank      Comment         Code
---------------------------------------------------------------------------------
- Markdown               841        32599         4599            0        28000
-```
-
-## Using the wiki well
-
-You can quickly search the contents of this wiki above or you can explore the tree view to the left.
-
-You can access any note from this wiki super fast using [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) workflow.
-
-Aside from this wiki, I share [code snippets](https://code.nikitavoloboev.xyz) and build [Learn Anything](ideas/learn-anything.md).
-
-## Other things I wrote and shared
-
-I share my knowledge in longer form by [writing articles](sharing/my-articles.md) and making [YouTube videos](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/videos).
-
-I also love [writing code](sharing/my-github.md) that solves various problems I have and I share it all on [GitHub](https://github.com/nikitavoloboev).
-
-[Here](sharing/sharing.md) you can find all the things I made and shared thus far.
+This is my personal knowledge base where I'll attempt to share [everything I know](sharing/everything-I-know.md) about this world in form of an online GitBook hosted on [GitHub](https://github.com/0xlucipher/knowledge).
 
 ## Grow your own digital garden 🌱
 
@@ -45,14 +10,18 @@ I collected a list of [wikis I liked the most](other/wiki-workflow.md#similar-wi
 
 Don't be afraid to create one of your own and share what you know with the world.
 
+## Credits
+
+This Repository is Hard fork from [Nikita Voloboev](https://github.com/nikitavoloboev/knowledge). Please don't forget to show some love to him too!
+
 ## Contributing
 
 If you found a mistake anywhere, I would appreciate your help. GitBook provides a quick way to open GitHub page for any entry so you can make changes and submit a PR.
 
-I'd love to hear any [ideas you have](https://github.com/nikitavoloboev/knowledge/issues/new) on how I can improve this wiki.
+I'd love to hear any [ideas you have](https://github.com/0xlucipher/knowledge/issues/new) on how I can improve this wiki.
 
 ## Thank you
 
 You can support me on [GitHub](https://github.com/sponsors/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects) I shared.
 
-[![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/) [![Twitter](http://bit.ly/nikitatweet)](https://twitter.com/nikitavoloboev)
+[![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/) ![Twitter Follow](https://img.shields.io/twitter/follow/0xlucipher?color=3cb9fc&logo=Twitter&style=flat-square)
