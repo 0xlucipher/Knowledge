@@ -657,7 +657,7 @@
   * [Libra](cryptocurrencies/libra.md)
   * [TON](cryptocurrencies/ton.md)
 * [Privacy](privacy/README.md)
-  * [Ad blocking](privacy/ad-blocking-1.md)
+  * [Ad blocking](privacy/ad-blocking.md)
   * [Freedom](privacy/freedom.md)
   * [Tor](privacy/tor.md)
 * [Games](games/README.md)
