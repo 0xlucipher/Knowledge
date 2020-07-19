@@ -1,8 +1,7 @@
 # Ad blocking
-
-## Advertisements
-
-![](undraw_surveillance.png)
+<p align="center">
+  <img src="undraw_surveillance.png" width="500">
+</p>
 
 Advertisements are bad for our ecosystem or computer. The majority of threats to users come through malicious advertisements displayed on mainstream websites. plus blocking advertising has multiple security and performance benefits too.
 
