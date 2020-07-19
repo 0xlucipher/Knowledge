@@ -1,4 +1,4 @@
-# [Ngrok](https://ngrok.com/)
+# ngrok
 
 I use it to tunnel my localhost server to share with other people. Useful for development.
 
@@ -8,4 +8,5 @@ Say I started my local server on port 3000. This command: `ngrok http 3000` will
 
 ## Links
 
-- [Node wrapper for ngrok](https://github.com/bubenshchykov/ngrok)
+* [Node wrapper for ngrok](https://github.com/bubenshchykov/ngrok)
+

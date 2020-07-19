@@ -2,7 +2,7 @@
 
 There is so much out there in the world. It's often hard to stay on top of things and many times not being able to understand something is frustrating so is feeling as if you are _missing out_.
 
-Of course, it is all in my head and [mindfulness](../mindfulness/mindfulness.md) is the answer. But I still want to do my best and try and understand as many things as I can because knowing a broad range of things helps me connect the dots and pieces together faster.
+Of course, it is all in my head and [mindfulness](../mindfulness/) is the answer. But I still want to do my best and try and understand as many things as I can because knowing a broad range of things helps me connect the dots and pieces together faster.
 
 I use [Pocket](https://app.getpocket.com) to send links I can't read right now from my phone/mac. It's an inbox of links I want to read through. High priority links/notes are sent as messages to myself on Telegram.
 
@@ -10,9 +10,9 @@ I use [Pocket](https://app.getpocket.com) to send links I can't read right now f
 
 I try to stay in touch using these few things:
 
-### Twitter with [Tweetbot](../macOS/apps/tweetbot.md)
+### Twitter with [Tweetbot](../macos/macos-apps/tweetbot.md)
 
-Twitter is my favorite social media network and it is where I share everything [I am personally up to](https://twitter.com/nikitavoloboev) right now. I love Twitter for its ability to tailor completely what news and tweets I am actually reading. I split Tweetbot into [two columns](../macOS/apps/tweetbot.md) on mac.
+Twitter is my favorite social media network and it is where I share everything [I am personally up to](https://twitter.com/nikitavoloboev) right now. I love Twitter for its ability to tailor completely what news and tweets I am actually reading. I split Tweetbot into [two columns](../macos/macos-apps/tweetbot.md) on mac.
 
 ### [Hacker News](https://hckrnews.com/) and [Lobsters](https://lobste.rs/)
 
@@ -32,9 +32,9 @@ I follow [blogs I like](blogs.md) and read them through them with Reeder.
 
 ### IRC
 
-I love using IRC with [Textual client](../macOS/apps/textual.md) and hanging out in various channels of Freenode. Mostly as a way to get help with an issue that I can't solve on my own after searching for everything.
+I love using IRC with [Textual client](../macos/macos-apps/textual.md) and hanging out in various channels of Freenode. Mostly as a way to get help with an issue that I can't solve on my own after searching for everything.
 
-### [Pinboard (popular)](https://pinboard.in/popular/)
+### [Pinboard \(popular\)](https://pinboard.in/popular/)
 
 I sometimes check it out as it does contain some interesting links.
 
@@ -48,85 +48,86 @@ I spend a lot of my time on [LA Discord server](https://discord.gg/KKYdWjt) to d
 
 Aside from that I like visiting and at times contributing to these forums:
 
-- [Alfred Forum](https://www.alfredforum.com)
-- [Keyboard Maestro Forum](https://forum.keyboardmaestro.com/latest)
-- [Indie Hackers](https://www.indiehackers.com/)
-- [laarc](https://www.laarc.io/)
-- [Merveilles Mastodon Instance](https://merveilles.town) - Amazing community of makers & artists.
+* [Alfred Forum](https://www.alfredforum.com)
+* [Keyboard Maestro Forum](https://forum.keyboardmaestro.com/latest)
+* [Indie Hackers](https://www.indiehackers.com/)
+* [laarc](https://www.laarc.io/)
+* [Merveilles Mastodon Instance](https://merveilles.town) - Amazing community of makers & artists.
 
 As well as a few other Slack communities like:
 
-- [Gophers](https://invite.slack.golangbridge.org/)
-- [Kubernetes](http://slack.k8s.io)
-- [VS Code Vim](https://vscodevim-slackin.azurewebsites.net/)
+* [Gophers](https://invite.slack.golangbridge.org/)
+* [Kubernetes](http://slack.k8s.io)
+* [VS Code Vim](https://vscodevim-slackin.azurewebsites.net/)
 
 And these Discord servers:
 
-- [Reactiflux](https://discord.gg/9pZJYR9)
-- [Rust Programming Language](https://discordapp.com/invite/rust-lang)
-- [ReasonML](https://discord.gg/Agv7fMN)
-- [Python](https://pythondiscord.com/)
-- [Functional programming](https://discord.gg/xQwR7P7)
-- [Cardano Community](https://discordapp.com/invite/kwY6rj8)
-- [QMK](https://discord.gg/mthbPUc)
-- [Godot Engine](https://discord.gg/ZXJERxu)
-- [r/Apple](https://discordapp.com/invite/apple)
+* [Reactiflux](https://discord.gg/9pZJYR9)
+* [Rust Programming Language](https://discordapp.com/invite/rust-lang)
+* [ReasonML](https://discord.gg/Agv7fMN)
+* [Python](https://pythondiscord.com/)
+* [Functional programming](https://discord.gg/xQwR7P7)
+* [Cardano Community](https://discordapp.com/invite/kwY6rj8)
+* [QMK](https://discord.gg/mthbPUc)
+* [Godot Engine](https://discord.gg/ZXJERxu)
+* [r/Apple](https://discordapp.com/invite/apple)
 
 ## Publications
 
-- [Stratechery](https://stratechery.com/)
-- [Nature](https://www.nature.com/)
-- [Atlas Obscura](https://www.atlasobscura.com/)
-- [Logic Magazine](https://logicmag.io/)
-- [Glimmer](https://glitch.com/glimmer/)
-- [Physics Today](https://physicstoday.scitation.org/journal/pto) ([HN](https://news.ycombinator.com/item?id=23043525))
-- [Logic](https://logicmag.io/) - Print magazine about technology that publishes three times per year.
-- [Psyche](https://psyche.co/) - On the human condition.
-- [Nautilus](http://nautil.us/) - Science Connected.
-- [De Programmatica Ipsum](https://deprogrammaticaipsum.com/)
-- [Themindcircle](https://themindcircle.com/)
-- [The Pudding](https://pudding.cool/) - Digital publication that explains ideas debated in culture with visual essays.
-- [Paris Review](https://theparisreview.org/) - Writers, Quotes, Biography, Interviews, Artists.
-- [The Information](https://www.theinformation.com/) - In-depth tech stories you won't find anywhere else.
-- [Epsilon Theory](https://www.epsilontheory.com/) - Investing and voting seen through the lenses of game theory and history.
-- [Outside Magazine](https://www.outsideonline.com/)
-- [Machine Learning: Science and Technology journal](https://iopscience.iop.org/journal/2632-2153)
-- [Letters of Note](https://lettersofnote.com/) - Correspondence Deserving of a Wider Audience.
+* [Stratechery](https://stratechery.com/)
+* [Nature](https://www.nature.com/)
+* [Atlas Obscura](https://www.atlasobscura.com/)
+* [Logic Magazine](https://logicmag.io/)
+* [Glimmer](https://glitch.com/glimmer/)
+* [Physics Today](https://physicstoday.scitation.org/journal/pto) \([HN](https://news.ycombinator.com/item?id=23043525)\)
+* [Logic](https://logicmag.io/) - Print magazine about technology that publishes three times per year.
+* [Psyche](https://psyche.co/) - On the human condition.
+* [Nautilus](http://nautil.us/) - Science Connected.
+* [De Programmatica Ipsum](https://deprogrammaticaipsum.com/)
+* [Themindcircle](https://themindcircle.com/)
+* [The Pudding](https://pudding.cool/) - Digital publication that explains ideas debated in culture with visual essays.
+* [Paris Review](https://theparisreview.org/) - Writers, Quotes, Biography, Interviews, Artists.
+* [The Information](https://www.theinformation.com/) - In-depth tech stories you won't find anywhere else.
+* [Epsilon Theory](https://www.epsilontheory.com/) - Investing and voting seen through the lenses of game theory and history.
+* [Outside Magazine](https://www.outsideonline.com/)
+* [Machine Learning: Science and Technology journal](https://iopscience.iop.org/journal/2632-2153)
+* [Letters of Note](https://lettersofnote.com/) - Correspondence Deserving of a Wider Audience.
 
 ### Other
 
-- [Awesome websites](https://github.com/learn-anything/websites)
-- [Hackaday](https://hackaday.com/)
-- [MOOCReport by Class Central](https://www.classcentral.com/report/) - Latest news and trends in online education.
-- [some.fyi](https://some.fyi/) - Experiment to get more useful news.
-- [Original contents on HN](http://hn.luap.info/) ([HN](https://news.ycombinator.com/item?id=23093990))
-- [Ness Labs](https://nesslabs.com/) - Provides content, coaching, courses and community to help makers put their minds at work.
-- [LessWrong](https://www.lesswrong.com/) - Community dedicated to improving our reasoning and decision-making.
-- [Rest of World](https://restofworld.org/) - International nonprofit journalism organization. We document what happens when technology, culture and the human experience collide.
-- [Wikipedia Random](https://en.wikipedia.org/wiki/Special:Random) - Open a random wikipedia page.
-- [Personal RSS feed](https://news.routley.io/)
-- [LOW←TECH MAGAZINE](https://solar.lowtechmagazine.com/) - Solar-powered, self-hosted version of Low-tech Magazine.
-- [Phys.org](https://phys.org/) - News and Articles on Science and Technology.
-- [Max Planck Institute for extraterrestrial Physics](http://www.mpe.mpg.de/main)
-- [DataTau](https://datatau.net/) - Data Science Newsboard.
-- [HN Deck](https://hndeck.sagunshrestha.com/) - View multiple HN feeds at once. ([HN](https://news.ycombinator.com/item?id=23626167))
-- [Tools and Toys](http://toolsandtoys.net/) - Hand-Picked for Work and Play.
+* [Awesome websites](https://github.com/learn-anything/websites)
+* [Hackaday](https://hackaday.com/)
+* [MOOCReport by Class Central](https://www.classcentral.com/report/) - Latest news and trends in online education.
+* [some.fyi](https://some.fyi/) - Experiment to get more useful news.
+* [Original contents on HN](http://hn.luap.info/) \([HN](https://news.ycombinator.com/item?id=23093990)\)
+* [Ness Labs](https://nesslabs.com/) - Provides content, coaching, courses and community to help makers put their minds at work.
+* [LessWrong](https://www.lesswrong.com/) - Community dedicated to improving our reasoning and decision-making.
+* [Rest of World](https://restofworld.org/) - International nonprofit journalism organization. We document what happens when technology, culture and the human experience collide.
+* [Wikipedia Random](https://en.wikipedia.org/wiki/Special:Random) - Open a random wikipedia page.
+* [Personal RSS feed](https://news.routley.io/)
+* [LOW←TECH MAGAZINE](https://solar.lowtechmagazine.com/) - Solar-powered, self-hosted version of Low-tech Magazine.
+* [Phys.org](https://phys.org/) - News and Articles on Science and Technology.
+* [Max Planck Institute for extraterrestrial Physics](http://www.mpe.mpg.de/main)
+* [DataTau](https://datatau.net/) - Data Science Newsboard.
+* [HN Deck](https://hndeck.sagunshrestha.com/) - View multiple HN feeds at once. \([HN](https://news.ycombinator.com/item?id=23626167)\)
+* [Tools and Toys](http://toolsandtoys.net/) - Hand-Picked for Work and Play.
 
 ## Notes
 
-- Best time to post links (HN especially) is somewhere around 16:30 CEST so it falls nicely in both EU & NA timezones
+* Best time to post links \(HN especially\) is somewhere around 16:30 CEST so it falls nicely in both EU & NA timezones
 
 ## Links
 
-- [News](https://medium.com/@nikitavoloboev/news-d6bcaaf40121) - I wrote briefly my opinion about consuming news and media. Although my opinion as stated in the article is still the same. My approach as indicated above has changed and hopefully became a bit more refined to meet my own goals.
-- [List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented) ([HN](https://news.ycombinator.com/item?id=23439437))
-- [Ask HN: Other online communities like HN? (2018)](https://news.ycombinator.com/item?id=18384680)
-- [Curated list of awesome programming subreddits](https://github.com/iCHAIT/awesome-subreddits)
-- [Stay Safe Out There: Navigating the Negatives on Twitter (2019)](https://www.holloway.com/s/excerpt-stay-safe-out-there-navigating-the-negatives-on-twitter)
-- [HN: List of Twitter mute words for your timeline (2020)](https://news.ycombinator.com/item?id=22141903)
-- [Hacker News Search](https://hn.algolia.com/) ([Code](https://github.com/algolia/hn-search))
-- [Slower News](https://www.slowernews.com) - Trends, micro-trends & edge cases. ([Code](https://github.com/slowernews/slowernews))
-- [ACM Queue](https://queue.acm.org/index.cfm) - Magazine for practicing software engineers.
-- [Datum](http://datum.alwaysdata.net/) - Browse hacker news comments with links about data.
-- [HN with Dark Mode](https://brianlovin.com/hn)
-- [Take control over your feeds to regain mindfulness (2020)](https://solmaz.io/thoughts/digital-hygiene-feeds/) ([HN](https://news.ycombinator.com/item?id=23662874))
+* [News](https://medium.com/@nikitavoloboev/news-d6bcaaf40121) - I wrote briefly my opinion about consuming news and media. Although my opinion as stated in the article is still the same. My approach as indicated above has changed and hopefully became a bit more refined to meet my own goals.
+* [List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented) \([HN](https://news.ycombinator.com/item?id=23439437)\)
+* [Ask HN: Other online communities like HN? \(2018\)](https://news.ycombinator.com/item?id=18384680)
+* [Curated list of awesome programming subreddits](https://github.com/iCHAIT/awesome-subreddits)
+* [Stay Safe Out There: Navigating the Negatives on Twitter \(2019\)](https://www.holloway.com/s/excerpt-stay-safe-out-there-navigating-the-negatives-on-twitter)
+* [HN: List of Twitter mute words for your timeline \(2020\)](https://news.ycombinator.com/item?id=22141903)
+* [Hacker News Search](https://hn.algolia.com/) \([Code](https://github.com/algolia/hn-search)\)
+* [Slower News](https://www.slowernews.com) - Trends, micro-trends & edge cases. \([Code](https://github.com/slowernews/slowernews)\)
+* [ACM Queue](https://queue.acm.org/index.cfm) - Magazine for practicing software engineers.
+* [Datum](http://datum.alwaysdata.net/) - Browse hacker news comments with links about data.
+* [HN with Dark Mode](https://brianlovin.com/hn)
+* [Take control over your feeds to regain mindfulness \(2020\)](https://solmaz.io/thoughts/digital-hygiene-feeds/) \([HN](https://news.ycombinator.com/item?id=23662874)\)
+

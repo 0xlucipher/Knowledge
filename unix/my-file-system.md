@@ -10,9 +10,9 @@ I use [this workflow](https://github.com/nikitavoloboev/small-workflows/tree/mas
 
 ## ~/Documents
 
-All my actual documents (books, papers..) are put there. The folder synced with iCloud and I often access it from my phone via Spotlight search.
+All my actual documents \(books, papers..\) are put there. The folder synced with iCloud and I often access it from my phone via Spotlight search.
 
-```Bash
+```bash
 ~/Documents
 ❯ exa
 Books  Design  Learn  PDFs  Personal  Pixave  Research  Videos  Zoom
@@ -28,7 +28,7 @@ I use [this workflow](https://github.com/nikitavoloboev/small-workflows/blob/mas
 
 Everything that is code is put into this folder.
 
-```Bash
+```bash
 ~/src
 ❯ exa
 learning  cli  clones  curated  extensions  games  ios  lib  macos  orgs  personal  web
@@ -44,7 +44,7 @@ I then filter contents of the folder with [this workflow](https://github.com/nik
 
 Inside this folder I keep all code from orgs I am working or worked on.
 
-```Bash
+```bash
 ~/src/orgs
 ❯ exa
 2do  learn-anything
@@ -58,7 +58,7 @@ The folder is OSS on [GitHub](https://github.com/nikitavoloboev/learning). Insid
 
 Contains different extensions to various apps in form of workflows/plugins.
 
-```Bash
+```bash
 ~/src/extensions
 ❯ exa
 alfred  safari  vim  vscode
@@ -68,7 +68,7 @@ alfred  safari  vim  vscode
 
 All my Alfred workflows are placed there. And each one is symlinked with [workflow-install](https://gist.github.com/deanishe/35faae3e7f89f629a94e).
 
-```Bash
+```bash
 ~/src/extensions/alfred
 ❯ exa
 alfred-ask-create-share  alfred-awesome-lists  alfred-github  alfred-learn-anything  alfred-my-mind  alfred-npm  alfred-pocket  alfred-timer  alfred-trello  alfred-web-searches  small-workflows
@@ -76,7 +76,7 @@ alfred-ask-create-share  alfred-awesome-lists  alfred-github  alfred-learn-anyth
 
 ## ~/src/curated
 
-Keep all the GitHub [curated lists](https://github.com/learn-anything/curated-lists) there where all edits to the `README.md` files is automatically committed with [Hazel](../macOS/apps/hazel.md).
+Keep all the GitHub [curated lists](https://github.com/learn-anything/curated-lists) there where all edits to the `README.md` files is automatically committed with [Hazel](../macos/macos-apps/hazel.md).
 
 ```bash
 ~/src/curated
@@ -98,7 +98,8 @@ Alfred  Apps  Config  IFTTT  Public  Shared  Temp  upload.sh  Write
 
 ## Links
 
-- [Ask HN: How do you organise your hard drive? (2018)](https://news.ycombinator.com/item?id=18836472)
-- [Ask HN: How do you keep your files organized on macOS? (2019)](https://news.ycombinator.com/item?id=19327264)
-- [How do you organize your \$HOME directory? (2019)](https://lobste.rs/s/zpw6py/how_do_you_organize_your_home_directory)
-- [Ask HN: How do you organise your files and folders? (2020)](https://news.ycombinator.com/item?id=23404900)
+* [Ask HN: How do you organise your hard drive? \(2018\)](https://news.ycombinator.com/item?id=18836472)
+* [Ask HN: How do you keep your files organized on macOS? \(2019\)](https://news.ycombinator.com/item?id=19327264)
+* [How do you organize your $HOME directory? \(2019\)](https://lobste.rs/s/zpw6py/how_do_you_organize_your_home_directory)
+* [Ask HN: How do you organise your files and folders? \(2020\)](https://news.ycombinator.com/item?id=23404900)
+

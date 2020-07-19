@@ -2,7 +2,7 @@
 
 Journaling my thoughts and experiences has been my most impactful and healthy habit I started doing in life.
 
-I once used [Day One](http://dayoneapp.com) as my digital life journal. However recently I started to journal and share my experiences publicly in [looking back](../looking-back/looking-back.md).
+I once used [Day One](http://dayoneapp.com) as my digital life journal. However recently I started to journal and share my experiences publicly in [looking back]().
 
 I started with journaling by writing [Day Evaluations](https://medium.com/@nikitavoloboev/day-evaluations-5706f31c9c5e#.m4lw1eo32), evaluating my day and noting interesting and memorable things that have happened to me during the day.
 
@@ -16,8 +16,9 @@ If I ever feel down, I can just start writing and just release all these negativ
 
 ## Links
 
-- [Susan Fowler's Year In Review: 2019](https://www.susanjfowler.com/blog/2019/12/10/my-year-in-review-2019)
-- [2019 into 2020 by Tania Rascia](https://www.taniarascia.com/2019-into-2020/)
-- [My Decade in Review by Dan Abramov](https://overreacted.io/my-decade-in-review/)
-- [Making of: Best of 2019](https://johanronsse.be/2019/12/28/making-of-best-of-2019/)
-- [Always Be Journaling (2018)](https://letterstoanewdeveloper.com/2018/12/14/always-be-journaling/) ([HN](https://news.ycombinator.com/item?id=22467938))
+* [Susan Fowler's Year In Review: 2019](https://www.susanjfowler.com/blog/2019/12/10/my-year-in-review-2019)
+* [2019 into 2020 by Tania Rascia](https://www.taniarascia.com/2019-into-2020/)
+* [My Decade in Review by Dan Abramov](https://overreacted.io/my-decade-in-review/)
+* [Making of: Best of 2019](https://johanronsse.be/2019/12/28/making-of-best-of-2019/)
+* [Always Be Journaling \(2018\)](https://letterstoanewdeveloper.com/2018/12/14/always-be-journaling/) \([HN](https://news.ycombinator.com/item?id=22467938)\)
+

@@ -1,5 +1,6 @@
-# [Generalized algebraic data type](https://en.wikipedia.org/wiki/Generalized_algebraic_data_type)
+# GADTs
 
 ## Links
 
-- [GADTs: A primer (2019)](https://sketch.sh/s/yH0MJiujNSiofDWOU85loX/)
+* [GADTs: A primer \(2019\)](https://sketch.sh/s/yH0MJiujNSiofDWOU85loX/)
+

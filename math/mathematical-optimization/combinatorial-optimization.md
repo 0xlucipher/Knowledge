@@ -1,5 +1,6 @@
-# [Combinatorial optimization](https://en.wikipedia.org/wiki/Combinatorial_optimization)
+# Combinatorial optimization
 
 ## Links
 
-- [OR-Tools](https://github.com/google/or-tools) - Google's software suite for combinatorial optimization.
+* [OR-Tools](https://github.com/google/or-tools) - Google's software suite for combinatorial optimization.
+

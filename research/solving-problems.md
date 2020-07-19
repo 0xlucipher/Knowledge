@@ -13,13 +13,13 @@ For me solving a problem usually involves going through these four steps:
 
 ## 1. Find what the problem is
 
-Most often the difficulty of solving some task is simply due to it not being clearly expressed for me. I get the majority the tasks I work on from my task manager [2Do](../macOS/apps/2do.md), GitHub issues and `TODO:`'s in the code. And I make sure that I understand fully well what the problem actually is before solving it.
+Most often the difficulty of solving some task is simply due to it not being clearly expressed for me. I get the majority the tasks I work on from my task manager [2Do](../macos/macos-apps/2do.md), GitHub issues and `TODO:`'s in the code. And I make sure that I understand fully well what the problem actually is before solving it.
 
 ## 2. Break the problem down to smaller parts
 
 Once I found and understand what it is I want to solve. I look into it more and see if I can try to break down the problem into smaller parts I can work on. Often times this might not be necessary and I can start working on the task immediately but in times when the task I need to solve is either hard or stated too vaguely, I break it down further into parts that I can pick up and work on individually.
 
-Usually I break things down using [MindNode](../macOS/apps/mindnode.md). I break down a problem into series of steps I can approach solving and then go through each of the steps to solve what I originally wanted to solve, modifying and adjusting things in light of newly found insights.
+Usually I break things down using [MindNode](../macos/macos-apps/mindnode.md). I break down a problem into series of steps I can approach solving and then go through each of the steps to solve what I originally wanted to solve, modifying and adjusting things in light of newly found insights.
 
 ![](https://i.imgur.com/qHAJdYk.png)
 
@@ -29,7 +29,7 @@ Usually I break things down using [MindNode](../macOS/apps/mindnode.md). I break
 
 > But can also look like this. Example of a [brainstorming session](https://youtu.be/sB0DWq3PTDk).
 
-Often times I can do the decoupling of the task inside the app I am working in itself, be it a code editor or [2Do](../macOS/apps/2do.md). I also sketch problems out on iPad with [Procreate](https://procreate.art/) app.
+Often times I can do the decoupling of the task inside the app I am working in itself, be it a code editor or [2Do](../macos/macos-apps/2do.md). I also sketch problems out on iPad with [Procreate](https://procreate.art/) app.
 
 ## 3. Work on solving the task and nothing else
 
@@ -37,7 +37,7 @@ I make sure to do the one task I have at hand with no distractions.
 
 ## 4. Solve the problem
 
-As mentioned in [research](research.md), I mostly use Google for searching mixed in with DuckDuckGo. I heavily use Dash for documentation and Dictionary for searching the wiki. I also use IRC and various forums specific to the problem I am solving.
+As mentioned in [research](./), I mostly use Google for searching mixed in with DuckDuckGo. I heavily use Dash for documentation and Dictionary for searching the wiki. I also use IRC and various forums specific to the problem I am solving.
 
 I often remind myself of [how to effectively ask questions](asking-questions.md) so as to respect other people's time and maximize chances of getting a good answer.
 
@@ -47,14 +47,15 @@ In some cases, a problem may be complex enough that it needs time thinking more 
 
 ## Notes
 
-- [I learned about the Feynman technique. Just write down how the thing you’re trying to learn works (a bug, a technique, anything) until you hit a wall in your understanding. This makes the boundary of your understanding explicit. Often, it’s surprising how much you actually do understand before hitting the wall, but before you build confidence, there’s a bias to assume the amount you don’t understand is greater than it really is. Make the boundary explicit, and then you have a specific point to push forward from, rather than kind of a cloud of doubt and anxiety. This made it clear that I knew more than I felt I knew, and at the very least helped me hone in on specific questions to ask.](https://lobste.rs/s/x1kzuw/what_tools_made_you_better_programmer)
+* [I learned about the Feynman technique. Just write down how the thing you’re trying to learn works \(a bug, a technique, anything\) until you hit a wall in your understanding. This makes the boundary of your understanding explicit. Often, it’s surprising how much you actually do understand before hitting the wall, but before you build confidence, there’s a bias to assume the amount you don’t understand is greater than it really is. Make the boundary explicit, and then you have a specific point to push forward from, rather than kind of a cloud of doubt and anxiety. This made it clear that I knew more than I felt I knew, and at the very least helped me hone in on specific questions to ask.](https://lobste.rs/s/x1kzuw/what_tools_made_you_better_programmer)
 
 ## Links
 
-- [Ask HN: What has made you a better problem solver in software engineering? (2019)](https://news.ycombinator.com/item?id=21659537)
-- [Pen and Paper Programming: what notation, if any, do you use? (2020)](https://lobste.rs/s/qe1ac6/pen_paper_programming_what_notation_if)
-- [Tools/practices to manage deeply nested thought-stacks? (2020)](https://lobste.rs/s/ka2diu/tools_practices_manage_deeply_nested)
-- [Problem-solving tips](https://twitter.com/3blue1brown/status/1264221747391328256)
-- [How to scope work (2020)](https://highgrowthengineering.substack.com/p/how-to-scope-work-)
-- [Problem solving](https://www.alexkehayias.com/essays/problem-solving/) - Introspecting on improving my product problem solving skills.
-- [Ask HN: How to improve my abstract thinking? (2020)](https://news.ycombinator.com/item?id=23675370)
+* [Ask HN: What has made you a better problem solver in software engineering? \(2019\)](https://news.ycombinator.com/item?id=21659537)
+* [Pen and Paper Programming: what notation, if any, do you use? \(2020\)](https://lobste.rs/s/qe1ac6/pen_paper_programming_what_notation_if)
+* [Tools/practices to manage deeply nested thought-stacks? \(2020\)](https://lobste.rs/s/ka2diu/tools_practices_manage_deeply_nested)
+* [Problem-solving tips](https://twitter.com/3blue1brown/status/1264221747391328256)
+* [How to scope work \(2020\)](https://highgrowthengineering.substack.com/p/how-to-scope-work-)
+* [Problem solving](https://www.alexkehayias.com/essays/problem-solving/) - Introspecting on improving my product problem solving skills.
+* [Ask HN: How to improve my abstract thinking? \(2020\)](https://news.ycombinator.com/item?id=23675370)
+

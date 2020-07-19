@@ -1,4 +1,4 @@
-# [Dropbox](https://www.dropbox.com)
+# Dropbox
 
 Dropbox is a pretty amazing service to share and keep files on the cloud. There is always privacy risks involved unless you put encrypted files in there but it is still undeniably great service.
 
@@ -13,3 +13,4 @@ For sharing files temporarily I use [transfer.sh](https://transfer.sh) and [Vito
 I also use Dropbox for sharing configuration of various apps.
 
 ![](https://i.imgur.com/F9nsqBn.png)
+

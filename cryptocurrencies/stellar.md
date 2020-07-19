@@ -1,6 +1,7 @@
-# [Stellar](https://www.stellar.org)
+# Stellar
 
 ## Links
 
-- [Stellar intro](https://stripe.com/blog/stellar)
-- [Demo Sessions: Stellar with Jed McCaleb](https://www.youtube.com/watch?v=GIMOrsPxlZg)
+* [Stellar intro](https://stripe.com/blog/stellar)
+* [Demo Sessions: Stellar with Jed McCaleb](https://www.youtube.com/watch?v=GIMOrsPxlZg)
+

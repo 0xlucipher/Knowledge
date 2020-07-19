@@ -1,4 +1,4 @@
-# [Learn Anything](https://learn-anything.xyz)
+# Learn Anything
 
 Learn Anything is currently the main project I am working on.
 
@@ -22,4 +22,5 @@ If you want to help out, we have a [Discord server](https://discord.gg/KKYdWjt).
 
 ## Links
 
-- [LA Docs](https://docs.learn-anything.xyz) - Includes roadmap, notes.
+* [LA Docs](https://docs.learn-anything.xyz) - Includes roadmap, notes.
+

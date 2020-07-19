@@ -2,4 +2,5 @@
 
 ## Interesting
 
-- [Fabio Spampinato](https://github.com/fabiospampinato/ama/issues/2)
+* [Fabio Spampinato](https://github.com/fabiospampinato/ama/issues/2)
+

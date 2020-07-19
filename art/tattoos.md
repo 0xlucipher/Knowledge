@@ -2,4 +2,5 @@
 
 ## Favorite artists
 
-- [Kyle Stacher](https://www.instagram.com/thiefhands)
+* [Kyle Stacher](https://www.instagram.com/thiefhands)
+

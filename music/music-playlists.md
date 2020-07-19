@@ -14,4 +14,5 @@ I share music I liked on SoundCloud on [my profile](https://soundcloud.com/nikit
 
 ## Links
 
-- [PLYST](https://plylst.app/) - Create smart playlists for your Spotify library. ([Code](https://github.com/Shpigford/plylst))
+* [PLYST](https://plylst.app/) - Create smart playlists for your Spotify library. \([Code](https://github.com/Shpigford/plylst)\)
+

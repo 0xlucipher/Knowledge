@@ -2,27 +2,28 @@
 
 ## Links
 
-- [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) - Play with fluids in your browser (works even on mobile). [Code](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation).
-- [Workshop on WebGL and GLSL](https://github.com/mattdesl/workshop-webgl-glsl/)
-- [Love Cube](https://avin.github.io/sketches/086_love_cube.html)
-- [Sketches by Avin Grape](https://avin.github.io/sketches/)
-- [OGL](https://github.com/oframe/ogl) - Minimal WebGL framework.
-- [glas](https://github.com/infamous/glas) - WebGL in WebAssembly with AssemblyScript.
-- [Raw WebGL](https://alain.xyz/blog/raw-webgl) - Overview on how to write a WebGL application. Learn what key data structures and types are needed to draw in WebGL.
-- [Raw WebGL slides](https://nickdesaulniers.github.io/RawWebGL/#/7)
-- [How to Create the Apple Fifth Avenue Cube in WebGL (2019)](https://tympanus.net/codrops/2019/12/20/how-to-create-the-apple-fifth-avenue-cube-in-webgl/)
-- [Moments of Happiness](https://moments.epic.net/#home) - Series of WebGL experiments developed to make you smile.
-- [WebGL Quake 3 Renderer](https://github.com/toji/webgl-quake3)
-- [Time Chart](https://github.com/huww98/TimeChart) - Chart library specialized for large-scale time-series data, built on WebGL.
-- [webgl-plot](https://github.com/danchitnis/webgl-plot) - High-performance 2D graphs using native WebGL.
-- [surfman](https://github.com/servo/surfman) - Low-level, cross-platform Rust library for managing surfaces, blocks of image data in GPU memory.
-- [WebGL Fundamentals](https://webglfundamentals.org/) ([Code](https://github.com/gfxfundamentals/webgl-fundamentals))
-- [Ray Marching and Signed Distance Functions (2016)](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/)
-- [Webgl Programming Guide: Interactive 3D Graphics Programming with Webgl (2013)](https://www.goodreads.com/book/show/16269927-webgl-programming-guide)
-- [Bringing webgl to react - Paul Henschel (2020)](https://www.youtube.com/watch?v=YyqBdN71nFs)
-- [WebGL guide](https://xem.github.io/articles/webgl-guide.html) - Complete, summarized WebGL tutorial, with tiny interactive demos in each chapter.
-- [WebGL map renderer written from scratch](https://github.com/tchayen/webgl-maps)
-- [TTF file parsing (2019)](https://tchayen.github.io/ttf-file-parsing)
-- [Brief explanation of WebGL (2018)](https://tchayen.github.io/brief-explanation-of-webgl)
-- [WebGL with Three.js Program](https://www.notion.so/WebGL-with-Three-js-Program-0d9a048f1a4e4573880f7de77b11789f)
-- [Barebones WebGL in 75 lines of code (2020)](https://avikdas.com/2020/07/08/barebones-webgl-in-75-lines-of-code.html) ([HN](https://news.ycombinator.com/item?id=23770711))
+* [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) - Play with fluids in your browser \(works even on mobile\). [Code](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation).
+* [Workshop on WebGL and GLSL](https://github.com/mattdesl/workshop-webgl-glsl/)
+* [Love Cube](https://avin.github.io/sketches/086_love_cube.html)
+* [Sketches by Avin Grape](https://avin.github.io/sketches/)
+* [OGL](https://github.com/oframe/ogl) - Minimal WebGL framework.
+* [glas](https://github.com/infamous/glas) - WebGL in WebAssembly with AssemblyScript.
+* [Raw WebGL](https://alain.xyz/blog/raw-webgl) - Overview on how to write a WebGL application. Learn what key data structures and types are needed to draw in WebGL.
+* [Raw WebGL slides](https://nickdesaulniers.github.io/RawWebGL/#/7)
+* [How to Create the Apple Fifth Avenue Cube in WebGL \(2019\)](https://tympanus.net/codrops/2019/12/20/how-to-create-the-apple-fifth-avenue-cube-in-webgl/)
+* [Moments of Happiness](https://moments.epic.net/#home) - Series of WebGL experiments developed to make you smile.
+* [WebGL Quake 3 Renderer](https://github.com/toji/webgl-quake3)
+* [Time Chart](https://github.com/huww98/TimeChart) - Chart library specialized for large-scale time-series data, built on WebGL.
+* [webgl-plot](https://github.com/danchitnis/webgl-plot) - High-performance 2D graphs using native WebGL.
+* [surfman](https://github.com/servo/surfman) - Low-level, cross-platform Rust library for managing surfaces, blocks of image data in GPU memory.
+* [WebGL Fundamentals](https://webglfundamentals.org/) \([Code](https://github.com/gfxfundamentals/webgl-fundamentals)\)
+* [Ray Marching and Signed Distance Functions \(2016\)](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/)
+* [Webgl Programming Guide: Interactive 3D Graphics Programming with Webgl \(2013\)](https://www.goodreads.com/book/show/16269927-webgl-programming-guide)
+* [Bringing webgl to react - Paul Henschel \(2020\)](https://www.youtube.com/watch?v=YyqBdN71nFs)
+* [WebGL guide](https://xem.github.io/articles/webgl-guide.html) - Complete, summarized WebGL tutorial, with tiny interactive demos in each chapter.
+* [WebGL map renderer written from scratch](https://github.com/tchayen/webgl-maps)
+* [TTF file parsing \(2019\)](https://tchayen.github.io/ttf-file-parsing)
+* [Brief explanation of WebGL \(2018\)](https://tchayen.github.io/brief-explanation-of-webgl)
+* [WebGL with Three.js Program](https://www.notion.so/WebGL-with-Three-js-Program-0d9a048f1a4e4573880f7de77b11789f)
+* [Barebones WebGL in 75 lines of code \(2020\)](https://avikdas.com/2020/07/08/barebones-webgl-in-75-lines-of-code.html) \([HN](https://news.ycombinator.com/item?id=23770711)\)
+

@@ -1,10 +1,8 @@
-# My Knowledge Wiki 🌿
+# Introduction
 
-<p align="center">
-  <img src="welcome.png" width="500">
-</p>
+![](.gitbook/assets/welcome.png)
 
-This is my personal knowledge base where I'll attempt to share [everything I know](sharing/everything-I-know.md) about this world in form of an online GitBook hosted on [GitHub](https://github.com/0xlucipher/knowledge).
+This is my personal knowledge base where I'll attempt to share [everything I know](sharing/everything-i-know.md) about this world in form of an online GitBook hosted on [GitHub](https://github.com/0xlucipher/knowledge).
 
 ## Grow your own digital garden 🌱
 
@@ -29,3 +27,4 @@ I'd love to hear any [ideas you have](https://github.com/0xlucipher/knowledge/is
 Kindly check other github projects I've created.
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/) ![Twitter Follow](https://img.shields.io/twitter/follow/0xlucipher?color=3cb9fc&logo=Twitter&style=flat-square)
+

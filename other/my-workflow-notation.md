@@ -4,37 +4,38 @@ Prefixes and notations I use for various apps and tools and their meanings.
 
 ## SnippetsLab
 
-- <> - User input, substitution
+* &lt;&gt; - User input, substitution
 
 ## Pixave
 
-- w. - Wallpapers
-- r. - Reactions
-- s. - Scans
-- rg. - Reaction GIFs
+* w. - Wallpapers
+* r. - Reactions
+* s. - Scans
+* rg. - Reaction GIFs
 
 ## Contacts
 
-- () - Nickname
-- \# - Tags
+* \(\) - Nickname
+* \# - Tags
 
 ## PDFs
 
-- r. - Research papers
-- d. - Documents
-- b. - Books
+* r. - Research papers
+* d. - Documents
+* b. - Books
 
 ## Keyboard Maestro
 
-- {} - What should be in my clipboard
-- [] - What state the macro should be in
-- <> - What link should be in my browser
-- @todo - Unfinished macros
+* {} - What should be in my clipboard
+* \[\] - What state the macro should be in
+* &lt;&gt; - What link should be in my browser
+* @todo - Unfinished macros
 
 ## Safari
 
-- w: - Websites
-- s: - Personal
-- g: - GitHub
-- c: - Chat
-- a: - Analytics
+* w: - Websites
+* s: - Personal
+* g: - GitHub
+* c: - Chat
+* a: - Analytics
+

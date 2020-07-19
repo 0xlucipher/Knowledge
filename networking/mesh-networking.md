@@ -1,5 +1,6 @@
-# [Mesh networking](https://en.wikipedia.org/wiki/Mesh_networking)
+# Mesh networking
 
 ## Links
 
-- [qaul.net](https://github.com/qaul/qaul.net) - Internet independent, decentralised ad-hoc wireless communication application.
+* [qaul.net](https://github.com/qaul/qaul.net) - Internet independent, decentralised ad-hoc wireless communication application.
+

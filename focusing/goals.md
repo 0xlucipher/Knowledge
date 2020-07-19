@@ -28,10 +28,11 @@ Read books & research papers relevant to problems I want to solve.
 
 ## Express myself in all the ways
 
-Make more videos (educational & otherwise). More insightful articles. Richer wiki. Better tools for extracting knowledge.
+Make more videos \(educational & otherwise\). More insightful articles. Richer wiki. Better tools for extracting knowledge.
 
 Express myself creatively by playing music, taking photos & making designs/drawings.
 
 ## Complete important tasks & be focused
 
 Progressively complete important 2Do tasks, GitHub issues. Keep in mind goals above & my rules.
+

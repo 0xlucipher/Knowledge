@@ -2,4 +2,5 @@
 
 ## Links
 
-- [Hampshire birding and beyond](http://hampshirebirding.blogspot.com/)
+* [Hampshire birding and beyond](http://hampshirebirding.blogspot.com/)
+

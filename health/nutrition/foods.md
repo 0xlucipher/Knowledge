@@ -2,7 +2,7 @@
 
 I eat a whole food, plant based diet and experiment by trying out new [vegan recipes](recipes.md). I exclude all unhealthy food.
 
-Most of my diet consists of eating raw foods like various nuts (almonds, walnuts), blueberries, bananas and avocados.
+Most of my diet consists of eating raw foods like various nuts \(almonds, walnuts\), blueberries, bananas and avocados.
 
 I try to cover my micro & macro nutrient needs by consuming nutritious food & [supplementing](supplements.md) where necessary. I sometimes make little smoothies.
 
@@ -18,82 +18,83 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 
 ## Nuts
 
-- almonds
-- hazelnuts
-- walnuts
+* almonds
+* hazelnuts
+* walnuts
 
 ## Vegetables
 
-- broccoli
-- carrots
-- chickpeas
-- kale
-- spinach
+* broccoli
+* carrots
+* chickpeas
+* kale
+* spinach
 
 ## Fruits
 
-- avocados
-- bananas
-- blueberries
+* avocados
+* bananas
+* blueberries
 
-## Nuts (other)
+## Nuts \(other\)
 
-- brazil nuts
-- cashews
-- peanuts
-- pistachio nuts
+* brazil nuts
+* cashews
+* peanuts
+* pistachio nuts
 
-## Vegetables (other)
+## Vegetables \(other\)
 
-- arugula
+* arugula
 
-## Fruits (other)
+## Fruits \(other\)
 
-- grapes
-- lemons
-- peaches
+* grapes
+* lemons
+* peaches
 
-## Beans (other)
+## Beans \(other\)
 
-- griffonia seeds
-- pinto beans
+* griffonia seeds
+* pinto beans
 
-## Spices (other)
+## Spices \(other\)
 
-- chilli's
-- curry powder
-- garlic
-- ginger
-- lentils
-- oregano
-- paprika
-- parsley
-- peppers
-- rosemary
-- sage
-- turmeric
+* chilli's
+* curry powder
+* garlic
+* ginger
+* lentils
+* oregano
+* paprika
+* parsley
+* peppers
+* rosemary
+* sage
+* turmeric
 
-## Oils (other)
+## Oils \(other\)
 
-- coconut oil
-- olive oil
+* coconut oil
+* olive oil
 
-## Mushrooms (other)
+## Mushrooms \(other\)
 
-- mushrooms
+* mushrooms
 
 ## Links
 
-- [Cheap healthy food](https://www.nomeatathlete.com/cheap-healthy-food/)
-- [Serotonin Foods and Mood Disorders](https://bebrainfit.com/serotonin-foods-mood-brain/)
-- [Some good oatmeal and avocado recipes](https://www.reddit.com/r/HealthyFood/comments/8ytyqi/food_for_the_brain_with_a_budget/)
-- [Solar Foods](https://solarfoods.fi/) - Revolutionary natural protein source for the global food industry: suitable for varied consumer diets, and virtually for all food products and types.
-- [What are the best/healthiest foods that can heal your body? (2020)](https://www.reddit.com/r/nutrition/comments/fnhms1/what_are_the_besthealthiest_foods_that_can_heal/)
-- [World's Healthiest Foods Meal Plan](http://www.whfoods.com/7daymealplan/intro.php)
-- [Ynsect](http://www.ynsect.com/en/) - Ynsect farms insects to make high-quality, premium natural ingredients for aquaculture and pet nutrition.
-- [Agricool](https://www.agricool.co/en/) - Fruits and vegetables grown in the heart of cities, less than 15 km away from where you live. Fresh, local, pesticide-free.
-- [Infarm](https://www.infarm.com/) - Growing a new food system in your city.
-- [QED](https://qed.ai/) - Builds data systems and AI for health and agriculture.
-- [What vertical farming and ag startups don't understand about agriculture (2020)](https://thinkingagriculture.io/what-silicon-valley-doesnt-understand-about-agriculture/) ([HN](https://news.ycombinator.com/item?id=23630201))
-- [Investors say agroforestry is climate friendly and also profitable (2020)](https://news.mongabay.com/2020/07/investors-find-agroforestry-isnt-just-climate-friendly-it-can-also-be-profitable/) ([HN](https://news.ycombinator.com/item?id=23794141))
-- [Cult Favorite](https://cult.supply/)
+* [Cheap healthy food](https://www.nomeatathlete.com/cheap-healthy-food/)
+* [Serotonin Foods and Mood Disorders](https://bebrainfit.com/serotonin-foods-mood-brain/)
+* [Some good oatmeal and avocado recipes](https://www.reddit.com/r/HealthyFood/comments/8ytyqi/food_for_the_brain_with_a_budget/)
+* [Solar Foods](https://solarfoods.fi/) - Revolutionary natural protein source for the global food industry: suitable for varied consumer diets, and virtually for all food products and types.
+* [What are the best/healthiest foods that can heal your body? \(2020\)](https://www.reddit.com/r/nutrition/comments/fnhms1/what_are_the_besthealthiest_foods_that_can_heal/)
+* [World's Healthiest Foods Meal Plan](http://www.whfoods.com/7daymealplan/intro.php)
+* [Ynsect](http://www.ynsect.com/en/) - Ynsect farms insects to make high-quality, premium natural ingredients for aquaculture and pet nutrition.
+* [Agricool](https://www.agricool.co/en/) - Fruits and vegetables grown in the heart of cities, less than 15 km away from where you live. Fresh, local, pesticide-free.
+* [Infarm](https://www.infarm.com/) - Growing a new food system in your city.
+* [QED](https://qed.ai/) - Builds data systems and AI for health and agriculture.
+* [What vertical farming and ag startups don't understand about agriculture \(2020\)](https://thinkingagriculture.io/what-silicon-valley-doesnt-understand-about-agriculture/) \([HN](https://news.ycombinator.com/item?id=23630201)\)
+* [Investors say agroforestry is climate friendly and also profitable \(2020\)](https://news.mongabay.com/2020/07/investors-find-agroforestry-isnt-just-climate-friendly-it-can-also-be-profitable/) \([HN](https://news.ycombinator.com/item?id=23794141)\)
+* [Cult Favorite](https://cult.supply/)
+
