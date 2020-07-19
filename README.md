@@ -1,4 +1,8 @@
-# [My Knowledge Wiki 🌿](https://wiki.nikitavoloboev.xyz)
+# My Knowledge Wiki 🌿
+
+<p align="center">
+  <img src="welcome.png" width="500">
+</p>
 
 This is my personal knowledge base where I'll attempt to share [everything I know](sharing/everything-I-know.md) about this world in form of an online GitBook hosted on [GitHub](https://github.com/0xlucipher/knowledge).
 
@@ -12,7 +16,7 @@ Don't be afraid to create one of your own and share what you know with the world
 
 ## Credits
 
-This Repository is Hard fork from [Nikita Voloboev](https://github.com/nikitavoloboev/knowledge). Please don't forget to show some love to him too!
+This Repository is Hard fork from [Nikita Voloboev](https://github.com/nikitavoloboev/knowledge). Please don't forget to show some love to him too! and thank you [Katerina Limpitsouni](https://undraw.co/) for sharing such lovely illustrations!
 
 ## Contributing
 
@@ -22,6 +26,6 @@ I'd love to hear any [ideas you have](https://github.com/0xlucipher/knowledge/is
 
 ## Thank you
 
-You can support me on [GitHub](https://github.com/sponsors/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects) I shared.
+Kindly check other github projects I've created.
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/) ![Twitter Follow](https://img.shields.io/twitter/follow/0xlucipher?color=3cb9fc&logo=Twitter&style=flat-square)
