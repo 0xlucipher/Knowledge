@@ -1,5 +1,7 @@
 # Ad blocking
 
+![](../.gitbook/assets/undraw_surveillance.png)
+
 Advertisements are bad for our ecosystem or computer. The majority of threats to users come through malicious advertisements displayed on mainstream websites \(source - [ZDNet](https://www.zdnet.com/article/hackers-have-breached-60-ad-servers-to-load-their-own-malicious-ads/) and [paper](https://users.cs.northwestern.edu/~ychen/Papers/ndss16.pdf)\). plus blocking advertise has multiple security and performance benefits too.
 
 We can implement blocking mechanism on three different levels of infrastructure using feature called "Filter Lists" \(Host file with blacklisted URL rules\).
