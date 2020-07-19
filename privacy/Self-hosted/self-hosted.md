@@ -1,5 +1,9 @@
 # Self hosted
 
+<p align="center">
+  <img src="selfhosted.png" width="500">
+</p>
+
 The concept in which you host your own applications, data, and more. Key take away here is data-ownership. you are in control of your data. but superpower does comes with responsibility. You need to ensure that you've harden everything before going deploying and this might require some field expertise in it.
 
 ## My current setup
